@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">01_多界面应用</string>
     <string name="second_ui">我是第二个界面的UI</string>
+    <string name="second">第二见面</string>
+
 </resources>
